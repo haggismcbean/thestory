@@ -48,6 +48,8 @@
 
 ### Sleeping
 
+### Combat/Hunting
+
 ## The World
 
 ### Time zones
@@ -56,13 +58,15 @@
 
 ### Seasons
 
+### Weather
+
 ### Animals
 
 ### Plants
 
 ### Oceans/Lakes
 
-### Rivers/steams
+### Rivers/streams
 
 ### Caves/mines
 
